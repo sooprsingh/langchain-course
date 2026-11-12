@@ -6,8 +6,10 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "black>=26.10.1",
+    "deepagents>=0.7.35",
     "isort>=9.0.2",
     "langchain>=1.4.7",
+    "langchain-core>=1.7.3",
     "langchain-google-genai>=4.4.2",
     "langchain-ollama>=1.1.0",
     "langchain-openai>=1.7.3",
